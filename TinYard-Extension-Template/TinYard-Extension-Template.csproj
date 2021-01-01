@@ -5,4 +5,10 @@
     <RootNamespace>TinYard_Extension_Template</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="TinYard">
+      <HintPath>Deps\TinYard\TinYard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
