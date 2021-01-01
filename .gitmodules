@@ -1,0 +1,3 @@
+[submodule "TinYard-Extension-Template/Deps/TinYard"]
+	path = TinYard-Extension-Template/Deps/TinYard
+	url = git@github.com:TinYard/TinYard.git
