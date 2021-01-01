@@ -12,8 +12,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="API\" />
-    <Folder Include="Impl\" />
+    <Folder Include="API\Events\" />
+    <Folder Include="API\Interfaces\" />
+    <Folder Include="API\Mediators\" />
+    <Folder Include="API\Views\" />
+    <Folder Include="API\VO\" />
+    <Folder Include="Impl\Commands\" />
+    <Folder Include="Impl\Models\" />
+    <Folder Include="Impl\Services\" />
+    <Folder Include="Impl\VO\" />
   </ItemGroup>
 
 </Project>

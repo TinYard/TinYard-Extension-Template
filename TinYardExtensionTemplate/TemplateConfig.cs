@@ -3,7 +3,7 @@ using TinYard.Framework.Impl.Attributes;
 //using TinYard.Extensions.CommandSystem.API.Interfaces;
 //using TinYard.Extensions.MediatorMap.API.Interfaces;
 
-namespace TinYard_Extension_Template
+namespace TinYardExtensionTemplate
 {
     public class TemplateConfig : IConfig
     {

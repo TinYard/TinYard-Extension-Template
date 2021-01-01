@@ -1,6 +1,6 @@
 ﻿using TinYard.API.Interfaces;
 
-namespace TinYard_Extension_Template
+namespace TinYardExtensionTemplate
 {
     public class TemplateExtension : IExtension
     {
