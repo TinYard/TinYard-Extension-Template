@@ -11,4 +11,9 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="API\" />
+    <Folder Include="Impl\" />
+  </ItemGroup>
+
 </Project>
